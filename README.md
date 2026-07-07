@@ -24,10 +24,6 @@ A console-based Sudoku game developed using C language.
 * sudoku.c
 * record.c
 
-## Live Demo
-[Play live game here] (https://codewith-divyaa.github.io/Sudoku-Game-using-C/)
-
-
 ## Preview
 
 <img width="277" height="254" alt="Screenshot 2026-04-28 233353" src="https://github.com/user-attachments/assets/038de11e-d5cc-4be1-ba7c-e39395ff3cc2" />
